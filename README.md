@@ -64,3 +64,5 @@ export default class extends React.Component {
 ```
 npm run dev
 ```
+
+Enjoy :D
