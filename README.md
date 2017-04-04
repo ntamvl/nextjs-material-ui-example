@@ -7,6 +7,16 @@ npm init -y
 npm i -S next react react-dom material-ui react-tap-event-plugin
 ```
 
+with structure files:
+```
+.
+├── LICENSE
+├── README.md
+├── package.json
+└── pages
+    └── index.js
+```
+
 ## Add script to `package.json`
 ```json
 "scripts": {
