@@ -2,6 +2,7 @@
 
 ## Init node project
 ```
+mkdir nextjs-material-ui-example && cd nextjs-material-ui-example
 npm init -y
 npm i -S next react react-dom material-ui react-tap-event-plugin
 ```
